@@ -19,8 +19,7 @@
 <br><br>
 
 - 💼 Head of Frontend Development at  <a href="https://www.grownetapp.com/" target="_blank">Grownet UK</a>  
-
-- ⚛️ NextJS Specialist | Passionate about scalable web experiences
+- ⚛️ React & NextJS Specialist | Passionate about scalable web experiences
 - 👨‍💻 As a Senior Software Engineer, I'm constantly learning and exploring new technologies to improve my skills
 
 <br>

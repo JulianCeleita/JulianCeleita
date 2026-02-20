@@ -63,28 +63,20 @@
 <table>
   <tr>
     <td align="center"><strong>⏳ Activity Graph</strong></td>
-    <td align="center"><strong>⭐ GitHub Stats</strong></td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulianCeleita&theme=gruvbox" />
       </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JulianCeleita&theme=gruvbox&show_icons=true&include_all_commits=true&rank_icon=percentile" />
-    </td>    
+    </td> 
   </tr>
   <tr>
     <td align="center"><strong>📈 Profile Summary Card</strong></td>
-    <td align="center"><strong>🏆 Trophies</strong></td>
   </tr>
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianCeleita&theme=gruvbox" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=JulianCeleita&theme=gruvbox&row=1&column=2" />
     </td>
   </tr>
 </table>

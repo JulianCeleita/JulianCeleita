@@ -1,4 +1,4 @@
-name: generate animation
+name: julian snake animation
 
 on:
   # run automatically every 24 hours

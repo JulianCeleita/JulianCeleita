@@ -112,6 +112,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianCeleita&theme=tokyonight" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulianCeleita&theme=tokyonight" />
   &nbsp;

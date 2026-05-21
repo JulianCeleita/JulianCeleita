@@ -12,26 +12,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/julian-andres-celeita/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Glassdoor&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:janceleita@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/julian.celeita/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://julianceleita.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=downdetector&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
 ##
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -138,9 +118,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulianCeleita&theme=tokyonight" />
 </div>
 
-<br/>
+<br/><br/>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -152,13 +131,12 @@
   </picture>
 </div>
 
-> **Note:** To enable the snake animation, create a GitHub Actions workflow in your profile repo (`JulianCeleita/JulianCeleita`) that generates the SVG on a schedule. See [platane/snk](https://github.com/platane/snk) for setup instructions.
+<br/><br/>
 
-<br/>
-
----
 
 ## 🌟 Open Source Projects
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/JulianCeleita?tab=repositories">
@@ -168,54 +146,33 @@
 
 <br/>
 
-> 👇 Pinned projects below — feel free to explore, star, and contribute!
-
-<br/>
-
----
 
 ## 📬 Let's Connect
 
 <div align="center">
-
-  <a href="mailto:janceleita@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/julian-andres-celeita/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Glassdoor&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/julian-andres-celeita/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:janceleita@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/julian.celeita/">
-    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <br/><br/>
-
-  <sub>Open to <strong>collaborations</strong>, <strong>consulting</strong>, and <strong>exciting opportunities</strong>.</sub>
-
+  &nbsp;
+  <a href="https://julianceleita.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=downdetector&logoColor=white" />
+  </a>
 </div>
 
-<br/>
+<br/><br/><br/>
 
----
+
+<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:24243e,50:302b63,100:0f0c29&section=footer" />
 </div>
-
-
-### 🔗 &nbsp;Contact Me
-
-<div align="center">
-<a href="mailto:janceleita@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/julian-andres-celeita/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/julian.celeita/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</div>
-
-
----
-
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
-------
